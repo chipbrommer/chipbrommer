@@ -1,26 +1,32 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my page!</b><br>
     <i>
         I'm Chip.<br>
         Currently a software engineer with a focus in c++ and embedded systems.<br>
-        Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/chipbrommer">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    <a href="https://www.instagram.com/chipbrommer">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-squared&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://account.xbox.com/en-us/profile?gamertag=chipy%20B">
+        <img src="https://img.shields.io/badge/Xbox-107C10?style=flat-squared&logo=xbox&logoColor=white" alt="xbox">
+    </a>
 </p>
 
 ### Languages
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/chipbrommer)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/chipbrommer)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/chipbrommer)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/chipbrommer)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/chipbrommer)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/chipbrommer)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/chipbrommer)
+[![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/chipbrommer)
 
 ### Technologies & Frameworks
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/chipbrommer)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/chipbrommer)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/chipbrommer)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/chipbrommer)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=Linux)](https://github.com/chipbrommer)
