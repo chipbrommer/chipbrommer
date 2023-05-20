@@ -23,8 +23,8 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/chipbrommer)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/chipbrommer)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/chipbrommer)
+[![Linux](https://img.shields.io/badge/linux-gray?style=for-the-badge&logo=Linux)](https://github.com/chipbrommer)
+[![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows)](https://github.com/chipbrommer)
 
 <details>
 <p align="center">
