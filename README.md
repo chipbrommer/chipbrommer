@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br>
     <i>
         I'm Chip.<br>
-        Currently a software engineer with a focus in c++ and embedded systems.<br>
+        Currently a software engineer with a focus in c++, c#, and embedded systems.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/chipbrommer">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
